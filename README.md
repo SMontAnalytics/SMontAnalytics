@@ -67,10 +67,12 @@ Análisis exploratorio y dashboard interactivo orientado a insights de negocio.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SMontAnalytics&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMontAnalytics&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SMontAnalytics&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMontAnalytics&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 ---
 
 ## 🌐 Portfolio
