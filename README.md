@@ -48,15 +48,15 @@ Me especializo en **análisis de datos, visualización y desarrollo de dashboard
 
 🔹 **Power BI – Análisis Comercial y Rentabilidad**  
 Dashboard interactivo para análisis de ventas, rentabilidad y desempeño comercial.
-🔗 https://github.com/SMontAnalytics/Power-Bi-
+🔗 https://github.com/SMontAnalytics/Power-Bi
 
 🔹 **Tableau – Análisis del Consumo de Alcohol**  
 Visualización interactiva con KPIs, parámetros y storytelling de datos.
-🔗 https://github.com/SMontAnalytics/Tableau-
+🔗 https://github.com/SMontAnalytics/Tableau
 
 🔹 **SQL – Base de Datos Relacional**  
 Diseño de modelo relacional con triggers y vistas para análisis de métricas comerciales.
-🔗 https://github.com/SMontAnalytics/SQL-
+🔗 https://github.com/SMontAnalytics/SQL
 
 🔹 **Data Analytics – Mercado Automotriz en India**  
 Análisis exploratorio y dashboard interactivo orientado a insights de negocio.
