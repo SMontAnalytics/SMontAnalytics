@@ -73,7 +73,7 @@ Análisis exploratorio y dashboard interactivo orientado a insights de negocio.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMontAnalytics&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
----
+
 
 ## 🌐 Portfolio
 🔗 https://smontanalytics.github.io/sebastianmontenegroporfolio.github.io/
