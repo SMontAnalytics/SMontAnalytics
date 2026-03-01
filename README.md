@@ -69,13 +69,12 @@ Análisis exploratorio y dashboard interactivo orientado a insights de negocio.
 
 ---
 
-## 💼 Open to Work
-Actualmente buscando oportunidades como:
+## 💼 Intereses Profesionales
+Buscando oportunidades donde pueda aportar como:
 
-- Data Analyst Junior  
-- BI Analyst  
-- Business Intelligence Analyst  
-
+- Data Analyst Junior
+- BI Analyst
+- Business Intelligence Analyst
 ---
 
 ## 📫 Contacto
